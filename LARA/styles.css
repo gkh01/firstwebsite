@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: darkblue;
+}
+
+img{
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
+}
+
+.menu{
+    background-color: aliceblue;
+    max-width: 50%;
+    margin-left: 25%;
+}
